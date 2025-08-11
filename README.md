@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heredaniyal
 - 👀 I’m interested in Programming, learning new things and socialzing.
-- 🌱 I’m currently learning courses from my univeristy UMT.
+- 🌱 I’m currently learning courses from my university UMT.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me https://www.linkedin.com/in/daniyal-saqib-012142335/
 - 😄 Pronouns: he
