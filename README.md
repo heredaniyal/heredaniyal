@@ -1,6 +1,6 @@
 # 👋 Daniyal Saqib
 
-**CS @ UMT '27 | Frontend Dev | Lahore**
+**CS @ UMT '27 | Full Stack Developer | Lahore**
 
 I'm the guy who runs a 527-member WhatsApp group, codes in C++/Java/JS, and hosted an internship event like a TV host. I build console apps easily, learning frontend properly, and figuring out how teams actually work in real development.
 
