@@ -1,16 +1,8 @@
 # Daniyal Saqib
 
-**Computer Science student (UMT Lahore, Class of 2027)**
+**Computer Science student (UMT Lahore, Class of 2027) — Full-Stack Developer**
 
 I build full-stack web applications and enjoy taking projects from a rough idea to something people actually use. Comfortable across the stack: React/Next.js on the frontend, FastAPI/Node on the backend, PostgreSQL for data.
-
----
-
-## Currently
-
-- 💼 **Intern, IT Group** — Allied Bank Limited, Head Office Lahore *(Aug – Sep 2026)*
-- 🎓 **BS Computer Science** — University of Management and Technology, Lahore *(2023–2027)*
-- 🏆 Competitive programming — UMT ACM Speed Programming Team
 
 ---
 
@@ -27,13 +19,39 @@ Built full-stack features as part of a production development team; completed th
 
 ---
 
+## Currently
+
+- 🎓 **BS Computer Science** — University of Management and Technology, Lahore *(2023–2027)*
+- 🏆 Competitive programming — UMT ACM Speed Programming Team
+
+---
+
 ## Tech Stack
 
-**Languages:** Python, JavaScript (ES6+), TypeScript-ready, C++, Java, C#, SQL
-**Frontend:** React, Next.js, HTML/CSS
-**Backend:** FastAPI, Node.js
-**Database:** PostgreSQL
-**Tools:** Git/GitHub, Streamlit, Visual Basic
+**Languages**
+- Python
+- JavaScript (ES6+)
+- C++
+- Java
+- C#
+- SQL
+
+**Frontend**
+- React
+- Next.js
+- HTML/CSS
+
+**Backend**
+- FastAPI
+- Node.js
+
+**Database**
+- PostgreSQL
+
+**Tools**
+- Git/GitHub
+- Streamlit
+- Visual Basic
 
 ---
 
@@ -42,14 +60,14 @@ Built full-stack features as part of a production development team; completed th
 **[Networking CRM](https://github.com/heredaniyal/networking-crm)**
 Geographic contact management tool built on Next.js 14, PostgreSQL, and Leaflet — turns a 1,300+ entry contact list into a searchable, map-based CRM.
 
-**[Inbox Copilot](https://github.com/frdnu/SOFTEC-AI-HACKATHON-2026)** — *SOFTEC'26*
+**[Inbox Copilot](https://github.com/frdnu/SOFTEC-AI-HACKATHON-2026)** — *SOFTEC'26, team project*
 AI-assisted email triage tool built with FastAPI, Streamlit, and the Groq API (Llama 3.1). Built with team Panic Pointers.
 
-**AI Resume Analyzer**
-Resume feedback tool built collaboratively as a course/team project.
+**[AI Resume Analyzer](https://github.com/heredaniyal/ai-resume-analyzer)**
+Resume feedback tool built collaboratively with Fardeen and Anwar.
 
-**PatientZero (Prototype)**
-Simulation prototype built in C# and Unity3D.
+**[PatientZero (Prototype)](https://github.com/heredaniyal/PatientZero_Prototype)**
+Horror-themed game prototype built in C# and Unity3D with Salman and Rafay for a Game Development elective.
 
 ---
 
