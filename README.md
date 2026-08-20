@@ -51,9 +51,6 @@ Resume feedback tool built collaboratively as a course/team project.
 **PatientZero (Prototype)**
 Simulation prototype built in C# and Unity3D.
 
-**Hotel Reservation System**
-Console-based reservation system in C++, built around core OOP principles.
-
 ---
 
 ## Involvement
