@@ -42,7 +42,7 @@ Built full-stack features as part of a production development team; completed th
 **[Networking CRM](https://github.com/heredaniyal/networking-crm)**
 Geographic contact management tool built on Next.js 14, PostgreSQL, and Leaflet — turns a 1,300+ entry contact list into a searchable, map-based CRM.
 
-**Inbox Copilot** — *SOFTEC'26*
+**[Inbox Copilot](https://github.com/frdnu/SOFTEC-AI-HACKATHON-2026)** — *SOFTEC'26*
 AI-assisted email triage tool built with FastAPI, Streamlit, and the Groq API (Llama 3.1). Built with team Panic Pointers.
 
 **AI Resume Analyzer**
