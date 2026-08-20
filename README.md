@@ -1,6 +1,6 @@
 # Daniyal Saqib
 
-**Computer Science student (UMT Lahore, Class of 2027) — currently interning in IT at Allied Bank Limited**
+**Computer Science student (UMT Lahore, Class of 2027)**
 
 I build full-stack web applications and enjoy taking projects from a rough idea to something people actually use. Comfortable across the stack: React/Next.js on the frontend, FastAPI/Node on the backend, PostgreSQL for data.
 
